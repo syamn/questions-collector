@@ -1,0 +1,22 @@
+# Ignore IDE files/folder
+.idea/*
+*.iml
+nbproject/*
+/.cache
+.project
+/.settings
+.buildpath
+
+# OS dust
+.DS_Store
+Thumbs.db
+
+# Log file
+/log/*
+!/log/
+!/log/empty
+
+# Output file
+/excel/output/*
+!/excel/output/
+!/excel/output/empty
